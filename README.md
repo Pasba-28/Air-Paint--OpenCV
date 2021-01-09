@@ -4,8 +4,8 @@ Draw on the screen with any small blue object.
 
 ## Software option
 1. Choose color: 
-  A. with the blue object -  Top buttons {Blue, Green, Red, Yellow}.
-  B. Press on keyboard ->  'b'/'g'/'r'/'y'.
+A. with the blue object -  Top buttons {Blue, Green, Red, Yellow}.
+B. Press on keyboard ->  'b'/'g'/'r'/'y'.
   
 2. Adjust brightness of color:
   Drag the '*' belowe the specific color on the screen.
