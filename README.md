@@ -32,12 +32,11 @@ Draw on the screen with any small blue object.
 
 ## Examples
 
-
-### A. Begining: 
+### Begining: 
 ![1](https://user-images.githubusercontent.com/69638284/104095289-ba5e8880-529e-11eb-942b-747a4e98c544.jpg)
 
-### A. Writing: 
+### Writing: 
 ![2](https://user-images.githubusercontent.com/69638284/104095293-bc284c00-529e-11eb-8b38-cb41e812f064.jpg)
 
-### A. Drawing: 
+### Drawing: 
 ![4](https://user-images.githubusercontent.com/69638284/104095290-bb8fb580-529e-11eb-80f9-824093a77568.jpg)
