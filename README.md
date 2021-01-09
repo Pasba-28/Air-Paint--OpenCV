@@ -29,3 +29,9 @@ Draw on the screen with any small blue object.
 1. with the blue object -  bottom right button {Clear}.
 
 2. Press on keyboard ->  'q'/'Esc'.
+
+## Examples
+
+![1](https://user-images.githubusercontent.com/69638284/104095289-ba5e8880-529e-11eb-942b-747a4e98c544.jpg)
+![2](https://user-images.githubusercontent.com/69638284/104095293-bc284c00-529e-11eb-8b38-cb41e812f064.jpg)
+![4](https://user-images.githubusercontent.com/69638284/104095290-bb8fb580-529e-11eb-80f9-824093a77568.jpg)
